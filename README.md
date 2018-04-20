@@ -112,11 +112,11 @@ In the above project we have used apache Flume – 1.7.0 to stream the data from
 
 ### 4. Java Code with result snapshots
 
-4.1 Mapper
-4.1 Mapper
+#### 4.1 Mapper
 
-Package anant;
 
+ ```java
+         
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
@@ -244,12 +244,12 @@ public class twitter_mapper extends Mapper<LongWritable, Text, Text, Text> {
 
 }
 
+```
 
 
+#### 4.2 Reducer
 
-4.2 Reducer
-
-
+```java
 import java.io.IOException;
 
 import org.apache.hadoop.io.Text;
@@ -268,9 +268,9 @@ public class twitter_reducer extends Reducer<Text, Text, Text, Text> {
 		 
 		}
 
+```
 
-
-4.3 MapReduce Driver
+#### 4.3 MapReduce Driver
  ```java
          
 import java.util.Map;
