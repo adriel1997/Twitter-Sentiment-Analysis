@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis
-
+Made by Adriealle Dsouza and Anant Mehra
 ## 1. PROJECT OBJECTIVE
 Sentiment Analysis on twitter streamed data using flume and hadoop
 
