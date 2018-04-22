@@ -94,16 +94,16 @@ In the Driver class, we need to provide the path for the cached dataset, using t
  
 Fig: Twitter stream command on cmd
  
-![Alt Text](https://github.com/adriel1997/Twitter-Sentiment-Analysis/input.PNG)
+![Alt Text](https://github.com/adriel1997/Twitter-Sentiment-Analysis/blob/master/input.PNG)
 #### Fig: Scrubbed data retrieved  
  
  
 
-![Alt Text](https://github.com/adriel1997/Twitter-Sentiment-Analysis/twitter stream.PNG)
+![Alt Text](https://github.com/adriel1997/Twitter-Sentiment-Analysis/blob/master/twitter%20stream.PNG)
 #### Fig.Data streaming from twitter
 
 
-![Alt Text](https://github.com/adriel1997/Twitter-Sentiment-Analysis/twitterhdfs.PNG)
+![Alt Text](https://github.com/adriel1997/Twitter-Sentiment-Analysis/blob/master/twitterhdfs.PNG)
 #### Fig. Data into HDFS (Log files)
 
 
