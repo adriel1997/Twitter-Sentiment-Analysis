@@ -92,7 +92,7 @@ In the Driver class, we need to provide the path for the cached dataset, using t
 * #### flume-ng agent –conf %FLUME_CONF% –conf-file %FLUME_CONF%/flume-conf.properties –name TwitterAgent 
  
  
-Fig: Twitter stream command on cmd
+#### Fig: Twitter stream command on cmd
  
 ![Alt Text](https://github.com/adriel1997/Twitter-Sentiment-Analysis/blob/master/input.PNG)
 #### Fig: Scrubbed data retrieved  
